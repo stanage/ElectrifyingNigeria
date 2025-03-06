@@ -8,13 +8,21 @@ The User **must not**:
 - Modify, distribute, sublicense, sell, or publicly share the Work.
 - Use the Work in any commercial product or service without explicit written permission.
 
-## 3. Ownership
+## 3. Citation Requirement
+If the Work is used in any academic, research, or published work, the User **must properly cite** the original paper associated with this Work using the following reference:
+
+**A machine learning-supported framework for predicting Nigeria’s optimal energy storage and emission reduction potentials**  
+Eshiemogie S. A., Aielumoh P. P., Okamkpa T., Jude M. C., Efe L., Amenaghawon A. N., Darmokoesoemo H., Kusuma H. S.  
+Renewable Energy Focus, 2025  
+https://doi.org/10.1016/j.ref.2024.100677
+
+## 4. Ownership
 All rights, title, and interest in the Work remain with the original creator ("Licensor"). No ownership or intellectual property rights are transferred.
 
-## 4. No Warranty & Liability
+## 5. No Warranty & Liability
 The Work is provided **"as-is"**, without any warranties, express or implied. The Licensor is **not liable** for any damages resulting from the use or misuse of the Work.
 
-## 5. Termination
+## 6. Termination
 This license is revoked if the User **violates any terms** outlined above. Upon termination, the User must delete all copies of the Work.
 
 For any permissions beyond this license, please contact stanleyeshiemogie@gmail.com.
